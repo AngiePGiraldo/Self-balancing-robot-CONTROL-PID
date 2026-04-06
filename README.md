@@ -2,7 +2,24 @@
 
 *Applying control theory to stabilize an inverted pendulum system using real-time feedback and PID control.*
 
-![Robot](media/robot.jpg)
+<p align="center">
+  <!-- Dos imágenes abajo -->
+  <img src="https://github.com/AngiePGiraldo/Self-balancing-robot-CONTROL-PID/blob/f3d4512e6a55740b22b476a2bfff1324cc5d3034/Step2.jpg" width="350"/>
+  <img src="https://github.com/AngiePGiraldo/Self-balancing-robot-CONTROL-PID/blob/f3d4512e6a55740b22b476a2bfff1324cc5d3034/Step1.jpg" width="350"/>
+</p>
+
+<p align="center">
+  <!-- Imagen principal -->
+  <img src="https://github.com/AngiePGiraldo/Self-balancing-robot-CONTROL-PID/blob/f3d4512e6a55740b22b476a2bfff1324cc5d3034/Step3.jpeg" width="400"/>
+</p>
+
+
+## 🎥 Demo
+
+You can see the robot in action at the following link:  
+
+[▶️ View Pendulum Robot Demo](https://www.youtube.com/shorts/_cYoVbgTlMY)
+
 
 ---
 
@@ -95,6 +112,10 @@ The robot continuously performs:
 
 ### 3. Stabilization
 The robot dynamically adjusts motor speed and direction to maintain balance.
+<p align="center">
+  <!-- Imagen principal -->
+  <img src="https://github.com/AngiePGiraldo/Self-balancing-robot-CONTROL-PID/blob/42abaf94716247d9164f9af9e24d7a854b836e3c/control.png" width="300"/>
+</p>
 
 ---
 
@@ -107,13 +128,9 @@ The robot dynamically adjusts motor speed and direction to maintain balance.
 ---
 
 ## 🖼️ System Diagram
-![Control Diagram](media/diagram.png)
 
----
+<p align="center">
+  <!-- Imagen principal -->
+  <img src="https://github.com/AngiePGiraldo/Self-balancing-robot-CONTROL-PID/blob/42abaf94716247d9164f9af9e24d7a854b836e3c/Connections%20of%20actuators%20and%20sensors.png" width="400"/>
+</p>
 
-## 🎥 Demo
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
----
-
-## 📂 Project Structure
